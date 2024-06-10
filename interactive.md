@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Interactive Development
+description: A collection of interactive experiences, including art installation and game.
 image: assets/images/Tromarama_Main.jpeg
 nav-menu: true
 ---
@@ -28,9 +29,9 @@ nav-menu: true
 <div class="box">
 	<p>Interactive Development, Content Consultancy, Model Rigging, Unreal Engine, Blender</p>
 </div>
-<p>Collaboration between artist collective "Tromarama" and Festivo, with the installation name "40ºC Fable (2021)". A motion sensor activation art for up to 6 people at the same time. Utilizing Kinect with Unreal Engine to produce a self mirror-like experience in front of three monitors setup. Displayed in Museum MACAN on December 2021 to May 2022.<br>
+<p>Collaboration between artist collective "Tromarama" and Festivo, with the installation name "40ºC Fable (2021)". A motion sensor activation art for up to 6 people at the same time. Utilizing Kinect with Unreal Engine to produce a self mirror-like experience in front of three monitors setup. Displayed in Museum MACAN on December 2021 to May 2022.<br><br>
 
-Process including discussion with the artist on how to achieve an interactive installation, including 3D character models modification to ensure support for game engine animation method. The 3D character models were then rigged, manually weight painted at some points to make sure body parts animated correctly. There were changes of concept during development which affect the number of desktop PC and Kinect to use, which drastically impact the complexity and added limitations such as the areas of interaction.<br>
+Process including discussion with the artist on how to achieve an interactive installation, including 3D character models modification to ensure support for game engine animation method. The 3D character models were then rigged, manually weight painted at some points to make sure body parts animated correctly. There were changes of concept during development which affect the number of desktop PC and Kinect to use, which drastically impact the complexity and added limitations such as the areas of interaction.<br><br>
 
 Results were positive, children loved to play with their body double characters on the screen.</p>
 

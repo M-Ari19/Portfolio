@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Product Design and Management
+description: A story throughout creation
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
