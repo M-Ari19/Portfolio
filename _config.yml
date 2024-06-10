@@ -1,16 +1,16 @@
 # site settings
 title: Portfolio
-subtitle: by HTML5 UP
+subtitle: Muhammad Ari Kurniawan
 email: m.ari19@outlook.com
-description: A portfolio website for showcasing projects
+description: A collection of portfolio showcases
 baseurl: "/Portfolio/" # the subpath of your site, e.g. /blog
 url: https://m-ari19.github.io # the base hostname & protocol for your site
 author: Ari
 street_address: 
-city: 
+city: Bekasi
 state: 
 zip_code: 
-country: 
+country: Indonesia
 phone: 
 
 # homepage tiles
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: www.linkedin.com/in/m-ari
+  Twitter: 
   Facebook:
   Slack:
 
