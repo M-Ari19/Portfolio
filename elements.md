@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interactive Development
-image: assets/images/pic01.jpg
+image: assets/images/Tromarama_Main.jpeg
 nav-menu: true
 ---
 
@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Installation for Children's Art Space Tromarama: The Lost Jungle at Museum MACAN</h2>
-<span class="image fit"><img src="{% link assets/images/Tromarama_Main.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/Tromarama_Main.jpeg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/Tromarama1.jpg %}" alt="" /></span></div>
