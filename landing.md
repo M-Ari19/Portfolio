@@ -29,8 +29,9 @@ nav-menu: true
 <!-- Two -->
 <section id="one" class="spotlights">
 	<section>
-		<div class="sketchfab-embed-wrapper" alt="" data-position="25% 25%"> <iframe  style='display: block; margin: 0 auto;' title="Boomerang" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f002ff8cc0dd4e3ebba7c79da2547f45/embed"> </iframe>
-		</div>
+		<a href="https://skfb.ly/6tvtu" class="image">
+			<img src="{% link assets/images/Boomerang.png %}" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -43,15 +44,32 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<div class="sketchfab-embed-wrapper" alt="" data-position="25% 25%"> <iframe style='display: block; margin: 0 auto;' title="Deakin Cube" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/20a158018081441aaf0173711cef8b08/embed"> </iframe>
-		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Deakin Cube</h3>
 				</header>
+				<a href="https://skfb.ly/69ozF" class="image">
+					<img src="{% link assets/images/DCube.png %}" alt="" data-position="25% 25%" />
+				</a>
 				<p>A recreation of monument on Deakin University Melbourne campus' mainway. It lights up of various color in the night.<br><br>
 				This was made for a VR experience to introduce first time VR user. This monument adds familiarity in student's mind since they pass this monument everyday.</p>
+			</div>
+		</div>
+	</section>
+	<section id="one" class="spotlights">
+	<section>
+		<a href="https://skfb.ly/6tvtu" class="image">
+			<img src="{% link assets/images/FlyingCar.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Flying Car</h3>
+				</header>
+				<p>A take on a conceptual floating car with flying capability.<br><br>
+				Model is heavily inspired by a mix of helicopter and F1 halo. This car is also in the VR experience with the Deakin Cube.
+				</p>
 			</div>
 		</div>
 	</section>
