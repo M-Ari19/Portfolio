@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main">
+<div id="main" class="act">
 
 <!-- One -->
 <!-- <section id="one">
@@ -19,10 +19,16 @@ nav-menu: true
 	</div>
 </section> -->
 
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>3D Art</h1>
+		</header>
+
 <!-- Two -->
 <section id="one" class="spotlights">
 	<section>
-		<div class="sketchfab-embed-wrapper"> <iframe title="Boomerang" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f002ff8cc0dd4e3ebba7c79da2547f45/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/boomerang-f002ff8cc0dd4e3ebba7c79da2547f45?utm_medium=embed&utm_campaign=share-popup&utm_content=f002ff8cc0dd4e3ebba7c79da2547f45" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Boomerang </a> by <a href="https://sketchfab.com/Etzian?utm_medium=embed&utm_campaign=share-popup&utm_content=f002ff8cc0dd4e3ebba7c79da2547f45" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Muhammad Ari Kurniawan </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f002ff8cc0dd4e3ebba7c79da2547f45" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
+		<div class="sketchfab-embed-wrapper"> <iframe title="Boomerang" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f002ff8cc0dd4e3ebba7c79da2547f45/embed"> </iframe>
 		</div>
 		<div class="content">
 			<div class="inner">
