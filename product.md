@@ -36,6 +36,4 @@ nav-menu: true
 
 		The platform also has its own backend system, a dashboard to register student and admin for student listing, login and grading.</p>
 
-</section>
-
 </div>

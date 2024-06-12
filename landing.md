@@ -2,7 +2,7 @@
 title: 3D Art
 layout: page
 description: Asset creation
-image: assets/images/FlyingCar.
+image: assets/images/FlyingCar.png
 nav-menu: true
 ---
 
