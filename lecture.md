@@ -16,7 +16,7 @@ nav-menu: true
 			<h1>Interactive Development</h1>
 		</header>
 
-<!-- Content TROMARAMA -->
+<!-- Content -->
 <h2 id="content">Installation for Children's Art Space Tromarama: The Lost Jungle at Museum MACAN</h2>
 <span class="image fit"><img src="{% link assets/images/Tromarama_Main.jpeg %}" alt="" /></span>
 <div class="box alt">
@@ -33,18 +33,11 @@ nav-menu: true
 
 Process including discussion with the artist on how to achieve an interactive installation, including 3D character models modification to ensure support for game engine animation method. The 3D character models were then rigged, manually weight painted at some points to make sure body parts animated correctly. There were changes of concept during development which affect the number of desktop PC and Kinect to use, which drastically impact the complexity and added limitations such as the areas of interaction.<br><br>
 
-Results were positive, children loved to play with their body double characters on the screen. Feel free to learn more from this <a href="https://www.museummacan.org/cas/the-lost-jungle?lang=en">archived page</a> of the installation on Museum MACAN's website.</p>
+Results were positive, children loved to play with their body double characters on the screen.</p>
 
 
-<!-- Content Motor Mods-->
-<h2 id="content">Motorcycle Modification Apps</h2>
-<span class="image fit"><img src="{% link assets/images/Motorcycle Modification.png %}" alt="" /></span>
-<div class="box">
-	<p>Model Optimization, Material Optimization, Shader Application, Unity, Blender</p>
-</div>
-<p>A mobile application aimed for motorcycle modification based on real world aftermarket parts. There are approximately ten parts to customize for each motorcycle. User may also change the color of various parts including body paint, wheels and leather seat.<br><br>
 
-My task was to improve the looks of the body paint and optimizing material applied in Blender. Motorcycle models were pre-build, however the materials included are not optimized for use in real time rendering. Challenges were present with mobile target platform's limited processing resource. Shader used include the use of fresnel which resulted from layer painting in car or motorcycle paint.<br><br></p>
+
 
 
 
