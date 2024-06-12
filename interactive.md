@@ -66,14 +66,12 @@ This collaboration resulted in increased museum web engagement. The virtual tour
 My task was to improve the looks of the body paint and optimizing material applied in Blender. Motorcycle models were pre-build, however the materials included are not optimized for use in real time rendering. Challenges were present with mobile target platform's limited processing resource. Shader used include the use of fresnel which resulted from layer painting in car or motorcycle paint.<br><br></p>
 
 <!-- Content SOTOVR-->
-<h2 id="content">Motorcycle Modification Apps</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SNH7iUwBFWA?si=xLDM46GJJuVpZlfW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2 id="content">Soto VR</h2>
+<iframe class="iamge fit" width="560" height="315" src="https://www.youtube.com/embed/SNH7iUwBFWA?si=xLDM46GJJuVpZlfW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div class="box">
 	<p>Model Optimization, Material Optimization, Virtual Reality, Texturing, Unity, Blender, Substance Painter</p>
 </div>
 <p>
 SotoVR is an educative game aiming to introduce Soto as an Indonesian culinary culture to the world. Playable in Oculus Rift, PC VR platform.<br><br></p>
-
-</section>
 
 </div>

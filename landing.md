@@ -2,7 +2,7 @@
 title: 3D Art
 layout: page
 description: Asset creation
-image: assets/images/FlyingCar.png
+image: assets/images/Boomerang.png
 nav-menu: true
 ---
 
@@ -27,7 +27,7 @@ nav-menu: true
 	</div>
 
 <!-- Two -->
-<section id="one" class="spotlights">
+<section id="two" class="spotlights">
 	<section>
 		<a href="https://skfb.ly/6tvtu" class="image">
 			<img src="{% link assets/images/Boomerang.png %}" alt="" data-position="25% 25%" />
