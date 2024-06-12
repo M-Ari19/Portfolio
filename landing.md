@@ -29,7 +29,7 @@ nav-menu: true
 <!-- Two -->
 <section id="one" class="spotlights">
 	<section>
-		<div class="sketchfab-embed-wrapper"> <iframe alt="" data-position="25% 25%" style='display: block; margin: 0 auto;' title="Boomerang" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f002ff8cc0dd4e3ebba7c79da2547f45/embed"> </iframe>
+		<div class="sketchfab-embed-wrapper" alt="" data-position="25% 25%"> <iframe  style='display: block; margin: 0 auto;' title="Boomerang" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f002ff8cc0dd4e3ebba7c79da2547f45/embed"> </iframe>
 		</div>
 		<div class="content">
 			<div class="inner">
@@ -43,7 +43,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<div class="sketchfab-embed-wrapper" > <iframe alt="" data-position="25% 25%" style='display: block; margin: 0 auto;' title="Deakin Cube" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/20a158018081441aaf0173711cef8b08/embed"> </iframe>
+		<div class="sketchfab-embed-wrapper" alt="" data-position="25% 25%"> <iframe style='display: block; margin: 0 auto;' title="Deakin Cube" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/20a158018081441aaf0173711cef8b08/embed"> </iframe>
 		</div>
 		<div class="content">
 			<div class="inner">
