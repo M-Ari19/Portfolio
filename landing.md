@@ -27,7 +27,7 @@ nav-menu: true
 	</div>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section id="one" class="spotlights">
 	<section>
 		<a href="https://skfb.ly/6tvtu" class="image">
 			<img src="{% link assets/images/Boomerang.png %}" alt="" data-position="25% 25%" />
@@ -50,7 +50,7 @@ nav-menu: true
 					<h3>Deakin Cube</h3>
 				</header>
 				<a href="https://skfb.ly/69ozF" class="image">
-					<img src="{% link assets/images/DCube.png %}" alt="" data-position="25% 25%" />
+					<img src="{% link assets/images/DC.png %}" alt="" data-position="25% 25%" />
 				</a>
 				<p>A recreation of monument on Deakin University Melbourne campus' mainway. It lights up of various color in the night.<br><br>
 				This was made for a VR experience to introduce first time VR user. This monument adds familiarity in student's mind since they pass this monument everyday.</p>
