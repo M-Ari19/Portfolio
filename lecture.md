@@ -33,7 +33,4 @@ nav-menu: true
 
 On 2021, lecture were given in pandemic lockdown through online classes. Setup for virtual reality was a complexity on its own. Therefore, we gave intro with Mozilla Hub, which was a multi-platform experience for mobile, desktop and webXR.</p>
 
-
-</section>
-
 </div>
