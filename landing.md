@@ -2,7 +2,7 @@
 title: 3D Art
 layout: page
 description: Asset creation
-image: assets/images/pic07.jpg
+image: assets/images/FlyingCar.
 nav-menu: true
 ---
 
@@ -42,23 +42,20 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<!-- <section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
+	<section>
+		<div class="sketchfab-embed-wrapper"> <iframe style='display: block; margin: 0 auto;' title="Deakin Cube" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/20a158018081441aaf0173711cef8b08/embed"> </iframe>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Deakin Cube</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>A recreation of monument on Deakin University Melbourne campus' mainway. It lights up of various color in the night.<br><br>
+				This was made for a VR experience to introduce first time VR user. This monument adds familiarity in student's mind since they pass this monument everyday.</p>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -73,7 +70,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
