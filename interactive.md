@@ -35,6 +35,25 @@ Process including discussion with the artist on how to achieve an interactive in
 
 Results were positive, children loved to play with their body double characters on the screen. Feel free to learn more from this <a href="https://www.museummacan.org/cas/the-lost-jungle?lang=en">archived page</a> of the installation on Museum MACAN's website.</p>
 
+<!-- Content TALES OF NOWHERE -->
+<h2 id="content">Installation for Children's Art Space Citra Sasmita: Tales of Nowhere</h2>
+<span class="image fit"><img src="{% link assets/images/Tromarama_Main.jpeg %}" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/Tromarama1.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/Tromarama2.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/Tromarama3.jpg %}" alt="" /></span></div>
+	</div>
+</div>
+<div class="box">
+	<p>Interactive Development, Content Consultancy, Augmented Reality, Virtual Tour</p>
+</div>
+<p>Collaboration between artist Citra Sasmita and Festivo. A pandemic stricken situation pushed museum and artist to innovate on how to display the installation without breaking the lockdown rules: a virtual exhibition. Displayed in Museum MACAN on December 2020 to January 2021.<br><br>
+
+Initial discussion with museum and artist was to bring AR experience for the museum visitor. The AR was utilizied using webAR platform, albeit minor inconvenience caused by processing capabilities of varied user device. The exhibition then expanded into the virtual landscape in web platform, utilizing virtual tour experience. The AR experience was also mimicked on the virtual tour experience.<br><br>
+
+This collaboration resulted in increased museum web engagement. The virtual tour was also used as online guided tour for children online organized by their school. Feel free to learn more from this <a href="https://www.museummacan.org/cas/kisah-antah-berantah">archived page</a> of the installation on Museum MACAN's website.</p>
+
 
 <!-- Content Motor Mods-->
 <h2 id="content">Motorcycle Modification Apps</h2>
