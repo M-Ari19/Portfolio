@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: 3D Art
+layout: page
+description: Asset creation
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -10,34 +10,32 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section id="one" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+		<div class="sketchfab-embed-wrapper"> <iframe title="Boomerang" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f002ff8cc0dd4e3ebba7c79da2547f45/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/boomerang-f002ff8cc0dd4e3ebba7c79da2547f45?utm_medium=embed&utm_campaign=share-popup&utm_content=f002ff8cc0dd4e3ebba7c79da2547f45" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Boomerang </a> by <a href="https://sketchfab.com/Etzian?utm_medium=embed&utm_campaign=share-popup&utm_content=f002ff8cc0dd4e3ebba7c79da2547f45" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Muhammad Ari Kurniawan </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f002ff8cc0dd4e3ebba7c79da2547f45" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Boomerang</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>Traditional tool, well known used by Indigenous Australians for hunting.<br><br>
+				I was walking down the Queen Victoria Market in a morning where merchandise were sold and I saw various sized boomerang with unique painting on it. Inspired by the traditional painting style, this model is my attempt to recreate it.
+				</p>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -72,7 +70,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -82,6 +80,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
