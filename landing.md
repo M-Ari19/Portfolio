@@ -49,11 +49,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Deakin Cube</h3>
 				</header>
+				<p>A recreation of monument on Deakin University Melbourne campus' mainway. It lights up of various color in the night.<br><br>
+				This was made for a VR experience to introduce first time VR user. This monument adds familiarity in student's mind since they pass this monument everyday.</p>
 				<a href="https://skfb.ly/69ozF" class="image">
 					<img src="{% link assets/images/DC.png %}" alt="" data-position="25% 25%" />
 				</a>
-				<p>A recreation of monument on Deakin University Melbourne campus' mainway. It lights up of various color in the night.<br><br>
-				This was made for a VR experience to introduce first time VR user. This monument adds familiarity in student's mind since they pass this monument everyday.</p>
 			</div>
 		</div>
 	</section>
