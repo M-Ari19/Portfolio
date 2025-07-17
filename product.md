@@ -29,7 +29,9 @@ nav-menu: true
 		<div class="box">
 			<p>Product Design, Technical Product Management, Project Management, User Acceptance Test</p>
 		</div>
-		<p>A platform to simulate manasik in 3D environment. Features including networked multiplayer experience aimed for student in class guided by their teacher.<br><br>
+		<p><b>Highlight:</b> We managed to let everyone in the team learned and appreciate their product as a whole. Although every production team has department (i.e. art tribe, tech tribe), there are also sessions where they communicate findings and creation to the whole team. This created cohesive team as they empathized each other pain points, appreciated individual contribution and created best practices towards the goal.<br><br>
+		
+		A platform to simulate manasik in 3D environment. Features including networked multiplayer experience aimed for student in class guided by their teacher.<br><br>
 
 		Development started by research of user needs to digitalize manasik, a training to familiriaze the act of umroh and hajj pilgrim, for use in school teaching. The process continues by developing minimum viable product to be tested in our partner school.
 		Later during development, we also managed to add exam options to help teacher assess student learning activity using the platform. It has been tested multiple times in a user acceptance testing and ready to be deployed for learning at school usage.<br><br>
